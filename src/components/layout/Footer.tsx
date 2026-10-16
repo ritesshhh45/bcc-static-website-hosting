@@ -28,8 +28,9 @@ export function Footer() {
         <div className="text-sm">
           <h4 className="mb-3 font-bold">Developed by</h4>
           <p>Ritesh Pawar <span className="text-muted-foreground">– PRN 202456108031</span></p>
+          <p>Vivek Bhadane <span className="text-muted-foreground">– PRN 202456108036</span></p>
           <p>Sarvadny Dhole <span className="text-muted-foreground">– PRN 202456108042</span></p>
-          <p className="mt-3 inline-block rounded-full bg-secondary px-3 py-1 text-xs font-semibold text-secondary-foreground">DBMS Mini Project</p>
+          <p className="mt-3 inline-block rounded-full bg-secondary px-3 py-1 text-xs font-semibold text-secondary-foreground">BCC Mini Project</p>
         </div>
       </div>
       <div className="border-t py-4 text-center text-xs text-muted-foreground">© {new Date().getFullYear()} FoodieX</div>
