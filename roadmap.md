@@ -1,0 +1,12 @@
+# FoodieX roadmap
+- [ ] City → Chhatrapati Sambhajinagar everywhere (UI, SEO, seed data, address defaults + state)
+- [ ] Checkout: radio address cards, auto-select after save, auto-save filled form on Place order
+- [ ] Remove fake stats strip; show real counts only
+- [ ] Cafes: is_cafe flag, 6 cafes + menus, src/data/cafes.ts, /cafes page, navbar + home section
+- [ ] Auth: remove Google, email+password only, auto-confirm; Vercel notes
+- [ ] Favicon SVG + apple-touch icon, logo, titles
+- [ ] Owner dashboard (menu CRUD, realtime orders, charts)
+- [ ] Admin dashboard (alerts, approve/block, coupons, partners, assign, charts, WhatsApp)
+- [ ] Telegram notify (TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID)
+- [ ] Hidden /dbms page (passcode, ER, schema, 30 runnable queries, downloads) + sql/queries.sql
+- [ ] Final check
